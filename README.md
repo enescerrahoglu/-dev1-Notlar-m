@@ -1,1 +1,1 @@
-# Bu repository <b>Oyun ve Uygulama Akademisi</b> GitHub ödevleri kapsamında oluşturulmuştur.
+# Bu repository **Oyun ve Uygulama Akademisi** GitHub ödevleri kapsamında oluşturulmuştur.
